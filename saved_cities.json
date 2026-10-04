@@ -1,0 +1,71 @@
+{
+  "last_active": {
+    "id": 1176615,
+    "name": "Islamabad",
+    "latitude": 33.6844,
+    "longitude": 73.0479,
+    "country": "Pakistan",
+    "admin1": "Federal Capital Territory",
+    "timezone": "Asia/Karachi"
+  },
+  "saved": [
+    {
+      "id": 1176615,
+      "name": "Islamabad",
+      "latitude": 33.6844,
+      "longitude": 73.0479,
+      "country": "Pakistan",
+      "admin1": "Federal Capital Territory",
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "id": 1172451,
+      "name": "Lahore",
+      "latitude": 31.5204,
+      "longitude": 74.3587,
+      "country": "Pakistan",
+      "admin1": "Punjab",
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "id": 1174872,
+      "name": "Karachi",
+      "latitude": 24.8607,
+      "longitude": 67.0011,
+      "country": "Pakistan",
+      "admin1": "Sindh",
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "id": 1166993,
+      "name": "Rawalpindi",
+      "latitude": 33.5986,
+      "longitude": 73.0441,
+      "country": "Pakistan",
+      "admin1": "Punjab",
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "id": 1168194,
+      "name": "Peshawar",
+      "latitude": 34.0151,
+      "longitude": 71.5249,
+      "country": "Pakistan",
+      "admin1": "Khyber Pakhtunkhwa",
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "id": 11080456,
+      "name": "Skardu",
+      "latitude": 35.30947,
+      "longitude": 75.62848,
+      "country": "Pakistan",
+      "country_code": "PK",
+      "admin1": null,
+      "admin2": "Skardu District",
+      "timezone": "Asia/Karachi",
+      "elevation": 2653.0,
+      "population": null
+    }
+  ]
+}
